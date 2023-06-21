@@ -3,7 +3,8 @@ This GitHub page serves as the AE of Usenix Security 2023 for Calpric: Inclusive
 
 
 ## Introduction
-We include three artifacts here: the Calpric Privacy Policy Corpus (CPPS), a customized pre-trained BERT-based embedding using privacy policy texts, and a source code example of the crowdsourcing and active learning components of the Calpric category model.  
+We include three artifacts here: the Calpric Privacy Policy Corpus (CPPS), a customized BERT-based embedding pre-trained using privacy policy texts ([PriBERT](https://drive.google.com/file/d/1Ob-AQVSqeLQq7Z37u0f5pTBs5j9Qn0m5/view?usp=drive_link)), and a source code example of the crowdsourcing and active learning components of the Calpric category model.  
+
 
 
 ## Dataset
